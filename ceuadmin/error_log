@@ -1,0 +1,40 @@
+[03-Oct-2024 22:45:38 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND payment_status = 'completed'' at line 3 in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/index.php:61
+Stack trace:
+#0 /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/index.php(61): mysqli_query()
+#1 {main}
+  thrown in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/index.php on line 61
+[10-Oct-2024 11:32:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Ts of Documenting Employee Behaviour, Discipline, Performance - How to Withst...' at line 1 in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php:85
+Stack trace:
+#0 /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php on line 85
+[10-Oct-2024 11:33:15 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Ts of Documenting Employee Behaviour, Discipline, Performance - How to Withst...' at line 1 in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php:85
+Stack trace:
+#0 /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php on line 85
+[10-Oct-2024 11:33:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Ts of Documenting Employee Behaviour, Discipline, Performance - How to Withst...' at line 1 in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php:85
+Stack trace:
+#0 /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php on line 85
+[23-Dec-2024 07:09:29 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's & DON'Ts of Documenting Employee Behaviour, Discipline, Performance - Withs...' at line 1 in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php:85
+Stack trace:
+#0 /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php on line 85
+[23-Dec-2024 07:10:08 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's & DON'Ts of Documenting Employee Behaviour, Discipline, Performance - Withs...' at line 1 in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php:85
+Stack trace:
+#0 /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php on line 85
+[24-Dec-2024 05:10:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'T" Deduct from an Employee’s Wages',description='<p><em><strong>HRCI &...' at line 1 in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php:85
+Stack trace:
+#0 /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php on line 85
+[24-Dec-2024 05:10:38 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'T" Deduct from an Employee’s Wages',description='<p><em><strong>HRCI &...' at line 1 in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php:85
+Stack trace:
+#0 /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/orhiqts3sfbi/public_html/ceuservices.com/ceuadmin/course-edit.php on line 85
